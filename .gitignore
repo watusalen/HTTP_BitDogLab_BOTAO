@@ -1,0 +1,30 @@
+# Compilação e build
+/build/
+/*.elf
+/*.uf2
+/*.hex
+/*.bin
+*.obj
+*.o
+*.map
+*.out
+*.log
+*.d
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env/
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.swp
+*.bak

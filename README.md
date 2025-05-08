@@ -1,4 +1,4 @@
-#Monitoramento de Botão e Temperatura com Raspberry Pi Pico W
+# Monitoramento de Botão e Temperatura com Raspberry Pi Pico W
 
 Este projeto demonstra o uso do microcontrolador **Raspberry Pi Pico W** para:
 - Monitorar o estado de um **botão físico** com tratamento de debounce por interrupção.
